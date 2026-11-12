@@ -4,7 +4,7 @@ Aplicación web estática para explorar métodos numéricos. La interfaz y los c
 
 ## Abrir localmente
 
-Abre `index.html` en un navegador moderno. No requiere instalar dependencias ni ejecutar un servidor.
+Abre `index.html` en un navegador moderno. No requiere instalar dependencias ni ejecutar un servidor. Este se puede ejecutar solamente abriendolo
 
 ## Publicar con GitHub Pages
 
@@ -23,7 +23,6 @@ Abre `index.html` en un navegador moderno. No requiere instalar dependencias ni 
 ## Archivos
 
 - `index.html`: aplicación completa (HTML, CSS y JavaScript). Incluye informe imprimible/guardable como PDF; la descarga CSV permanece disponible para las tablas.
-- `GUIA-PRUEBAS-Y-SUSTENTACION.md`: casos buenos y malos, resultados esperados y guion de exposición.
 - `README.md`: estas instrucciones.
 - `.gitignore`: exclusiones comunes de sistema y editor.
 
