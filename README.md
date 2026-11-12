@@ -2,6 +2,10 @@
 
 Aplicación web estática para explorar métodos numéricos. La interfaz y los cálculos se ejecutan localmente en el navegador.
 
+## Desplegado en Vercel
+
+https://numericalab.vercel.app
+
 ## Abrir localmente
 
 Abre `index.html` en un navegador moderno. No requiere instalar dependencias ni ejecutar un servidor. Este se puede ejecutar solamente abriendolo
